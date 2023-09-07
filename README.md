@@ -10,8 +10,6 @@
     </svg>
 </div>
 
-<iframe src="https://discordwidget.com/api/widget/YourServerID" width="350" height="500" frameborder="0" scrolling="no"></iframe>
-
 <style>
     .vscp svg path{
         stroke-dashoffset: 1250;
