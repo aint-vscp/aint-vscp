@@ -11,7 +11,14 @@
 </div>
 
 <style>
-    .vscp svg path{
+    .vscp {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+    }
+
+    .vscp svg path {
         stroke-dashoffset: 1250;
         stroke-dasharray: 1250;
         fill-opacity: 0;
