@@ -29,9 +29,11 @@
 
 ## Certificates
 
-<img src="./data_scientist_associate_banner.svg">
-<img src="./data_analyst_associate_badge.svg">
-<img src="./data_engineer_associate_badge.svg">
+| | |
+|-|-|
+| !Data Scientist Associate | **Expiration:** TBD <br> **Validation:** TBD |
+| !Data Analyst Associate | **Expiration:** TBD <br> **Validation:** TBD |
+| !Data Engineer Associate | **Expiration:** TBD <br> **Validation:** TBD |
 
 <!--
 **aint-vscp/aint-vscp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
