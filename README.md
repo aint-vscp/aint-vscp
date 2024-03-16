@@ -11,14 +11,9 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source" >
-  <img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=aint-vscp&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&hide_border=true" />
-</a>
-</p>
-
-## Stats
-
-<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source" >
+    <img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=aint-vscp&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&hide_border=true" />
+  </a>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aint-vscp&theme=react&border=61dafb&hide_border=true" alt="Stats">
 </p>
 
