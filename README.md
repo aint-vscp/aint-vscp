@@ -12,7 +12,3 @@
 </p>
 
 ![graph](https://github-readme-activity-graph.vercel.app/graph?username=aint-vscp&theme=react-dark&bg_color=20232a&line=f75c7e&hide_border=true)
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/aint-vscp/aint-vscp/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="aint-vscp" />
-</p>
