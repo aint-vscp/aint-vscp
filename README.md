@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <a href="">
     <img src="https://readme-typing-svg.demolab.com/?lines=This%20is%20Wat%20✌&center=true&color=f75c7e&size=22" />
   </a>
 </p>
