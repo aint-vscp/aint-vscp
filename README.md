@@ -1,7 +1,19 @@
 <!-- ### Hi there 👋   -->
 <!-- ![garfield-hi-there](https://user-images.githubusercontent.com/101977910/208351738-242e2d1a-5147-4d04-8760-f51731bbdba5.gif) -->
 
-<img align="center" src="./vscp.svg">
+<style>
+    .svg-icon {
+        transition: transform 0.3s ease-in-out;
+    }
+
+    .svg-icon:hover {
+        transform: scale(1.2);
+    }
+</style>
+
+<div align="center" class="svg-icon">
+    <img src="./vscp.svg">
+</div>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
