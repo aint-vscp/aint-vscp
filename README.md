@@ -29,7 +29,9 @@
 
 ## Certificates
 
-<img src="./controllers_brief.svg">
+<img src="./data_scientist_associate_badge.svg">
+<img src="./data_analyst_associate_badge.svg">
+<img src="./data_engineer_associate_badge.svg">
 
 <!--
 **aint-vscp/aint-vscp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
