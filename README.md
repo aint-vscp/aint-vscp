@@ -3,13 +3,13 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Happy+to+see+you+here+😉&center=true&size=28">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Been+waiting+for+you😉&center=true&size=28">
   </a>
 </h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=This%20is%20Pranav%20Patel....;Always%20learning%20new%20things%20✌&center=true&color=f75c7e&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=This%20is%20Wat%20✌&center=true&color=f75c7e&size=22" />
   </a>
 </p>
 
