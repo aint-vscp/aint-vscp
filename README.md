@@ -13,10 +13,6 @@
 
 ![graph](https://github-readme-activity-graph.vercel.app/graph?username=aint-vscp&theme=react-dark&bg_color=20232a&line=f75c7e&hide_border=true)
 
-## Certificates
-
-| | |
-|-|-|
-| <img src="./data_scientist_associate_banner.svg" width="100"> | **Expiration:** TBD <br> **Validation:** DSA0013510081106 |
-| <img src="./data_analyst_associate_badge.svg" width="100"> | **Expiration:** TBD <br> **Validation:** DAA0015045663039 |
-| <img src="./data_engineer_associate_badge.svg" width="100"> | **Expiration:** TBD <br> **Validation:** DEA0015920007286 |
+<p align="center">
+<img src="https://raw.githubusercontent.com/aint-vscp/aint-vscp/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="aint-vscp" />
+</p>
