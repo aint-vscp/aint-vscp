@@ -30,7 +30,7 @@
 ## Certificates
 
 | | |
-|Certificates|
+|-|-|
 | <img src="./data_scientist_associate_banner.svg" width="100"> | **Expiration:** TBD <br> **Validation:** DSA0013510081106 |
 | <img src="./data_analyst_associate_badge.svg" width="100"> | **Expiration:** TBD <br> **Validation:** DAA0015045663039 |
 | <img src="./data_engineer_associate_badge.svg" width="100"> | **Expiration:** TBD <br> **Validation:** DEA0015920007286 |
