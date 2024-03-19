@@ -37,8 +37,10 @@
   <img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=aint-vscp&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&hide_border=true"/>
 </div>
 
-<h3 align="center">Data Scientist 👨‍🔬 </h3>
-<img height=50 src="./assets/DSA_DC.png"/>
+<div align="center" style="vertical-align: middle; text-align: center;">
+  <h3>Data Scientist 👨‍🔬</h3>
+  <img height=50 src="./assets/DSA_DC.png"/>
+</div>
 <div align="center">
   <img width="60px" height="60px" src="./assets/python.png" alt="python logo"/>
   <img width="60px" height="60px" src="./assets/Tensorflow_logo.png" alt="Tensorflow_logo logo"/>
