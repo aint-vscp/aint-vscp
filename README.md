@@ -37,7 +37,8 @@
   <img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=aint-vscp&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&hide_border=true"/>
 </div>
 
-<h3 align="center">Data Scientist 👨‍🔬 <img height=30 src="./assets/DSA_DC.png"/></h3>
+<h3 align="center">Data Scientist 👨‍🔬 </h3>
+<img height=50 src="./assets/DSA_DC.png"/>
 <div align="center">
   <img width="60px" height="60px" src="./assets/python.png" alt="python logo"/>
   <img width="60px" height="60px" src="./assets/Tensorflow_logo.png" alt="Tensorflow_logo logo"/>
@@ -49,7 +50,8 @@
   <img width="60px" height="60px" src="./assets/matplotlib.png" alt="matplotlib logo"/>
 </div>
 
-<h3 align="center">Data Analyst 📊 <img height=30 src="./assets/DAA_DC.png"/></h3>
+<h3 align="center">Data Analyst 📊</h3>
+<img height=50 src="./assets/DAA_DC.png"/>
 <div align="center">
   <img width="60px" height="60px" src="./assets/r.png" alt="r logo"/>
   <img width="60px" height="60px" src="./assets/python.png" alt="python logo"/>
@@ -64,7 +66,8 @@
   <img width="60px" height="60px" src="./assets/powerbi.png" alt="powerbi logo"/>
 </div>
 
-<h3 align="center">Data Engineer 🔧 <img height=30 src="./assets/DEA_DC.png"/></h3>
+<h3 align="center">Data Engineer 🔧</h3>
+<img height=50 src="./assets/DEA_DC.png"/>
 <div align="center">
   <img width="60px" height="60px" src="./assets/sql.png" alt="sql logo"/>
   <img width="60px" height="60px" src="./assets/stitch.png" alt="stitch logo"/>
