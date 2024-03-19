@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=My%20code%20name%20is%20Wat%20✌&center=true&color=f75c7e&size=22" />
 </h1>
 
-# Technologies
+# Technologies ⚙
 <h3 align="center">Web Development</h3>
 <div align="center">
   <img width="60px" height="60px" src="./assets/html-5.png" alt="html-5 logo"/>
