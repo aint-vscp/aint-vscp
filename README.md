@@ -71,7 +71,6 @@
   <img width="60px" height="60px" src="./assets/sklearn.png" alt="sklearn logo"/>
   <img width="60px" height="60px" src="./assets/excel.png" alt="excel logo"/>
   <img width="60px" height="60px" src="./assets/googlesheet.png" alt="googlesheet logo"/>
-  <img width="60px" height="60px" src="./assets/sklearn.png" alt="sklearn logo"/>
   <img width="60px" height="60px" src="./assets/tableau.png" alt="tableau logo"/>
   <img width="60px" height="60px" src="./assets/powerbi.png" alt="powerbi logo"/>
 </div>
