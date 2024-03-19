@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Been+waiting+for+you😉&center=true&size=28">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey!+Glad+you+visit.+👋;Been+waiting+for+you+😉&center=true&size=28">
   <img src="LinkedIn VSCP (1).png">
 </h1>
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=This%20is%20Wat%20✌&center=true&color=f75c7e&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=My%20Code%20Name%20is%20Wat%20✌&center=true&color=f75c7e&size=22" />
 </p>
 
 <p align="center">
