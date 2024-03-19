@@ -39,8 +39,10 @@
 
 <div align="center">
   <h3>Data Scientist 👨‍🔬 </h3>
-  <img height="50" src="./assets/DSA_DC.png" alt="Data Scientist Icon">
+  <img height="100" src="./assets/DSA_DC.png" alt="Data Scientist Icon">
 </div>
+<br>
+<br>
 <div align="center">
   <img width="60px" height="60px" src="./assets/python.png" alt="python logo"/>
   <img width="60px" height="60px" src="./assets/Tensorflow_logo.png" alt="Tensorflow_logo logo"/>
@@ -52,8 +54,12 @@
   <img width="60px" height="60px" src="./assets/matplotlib.png" alt="matplotlib logo"/>
 </div>
 
-<h3 align="center">Data Analyst 📊</h3>
-<img height=50 src="./assets/DAA_DC.png"/>
+<div align="center">
+  <h3>Data Analyst 📊</h3>
+  <img height="100" src="./assets/DAA_DC.png" alt="Data Analyst Icon">
+</div>
+<br>
+<br>
 <div align="center">
   <img width="60px" height="60px" src="./assets/r.png" alt="r logo"/>
   <img width="60px" height="60px" src="./assets/python.png" alt="python logo"/>
@@ -68,8 +74,12 @@
   <img width="60px" height="60px" src="./assets/powerbi.png" alt="powerbi logo"/>
 </div>
 
-<h3 align="center">Data Engineer 🔧</h3>
-<img height=50 src="./assets/DEA_DC.png"/>
+<div align="center">
+  <h3>Data Engineer 🔧</h3>
+  <img height="100" src="./assets/DEA_DC.png" alt="Data Engineer Icon">
+</div>
+<br>
+<br>
 <div align="center">
   <img width="60px" height="60px" src="./assets/sql.png" alt="sql logo"/>
   <img width="60px" height="60px" src="./assets/stitch.png" alt="stitch logo"/>
