@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey!+Glad+you+visit.👋;Been+waiting+for+you+😉&center=true&size=28">
-  <img src="LinkedIn VSCP (1).png">
+  <img src="assets/LinkedIn VSCP.png">
 </h1>
 
 <p align="center">
