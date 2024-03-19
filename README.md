@@ -38,9 +38,8 @@
 </div>
 
 <div align="center">
-  <center>
-    <h3>Data Scientist 👨‍🔬 <img height="50" src="./assets/DSA_DC.png" alt="Data Scientist Icon"></h3>
-  </center>
+  <h3>Data Scientist 👨‍🔬 </h3>
+  <img height="50" src="./assets/DSA_DC.png" alt="Data Scientist Icon">
 </div>
 <div align="center">
   <img width="60px" height="60px" src="./assets/python.png" alt="python logo"/>
