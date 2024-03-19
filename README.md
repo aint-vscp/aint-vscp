@@ -3,6 +3,7 @@
   <img src="./assets/LinkedIn VSCP.png">
   <img src="https://readme-typing-svg.demolab.com/?lines=My%20code%20name%20is%20Wat%20✌&center=true&color=f75c7e&size=22" />
 </h1>
+
 # Technologies
 <h3 align="center">Web Development</h3>
 <div align="center">
