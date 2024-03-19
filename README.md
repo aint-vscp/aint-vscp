@@ -40,6 +40,7 @@
 <div align="center">
   <h3>Data Scientist 👨‍🔬 </h3>
   <img height="100" src="./assets/DSA_DC.png" alt="Data Scientist Icon">
+  <p>DSA0013510081106</p>
 </div>
 <br>
 <br>
@@ -57,6 +58,7 @@
 <div align="center">
   <h3>Data Analyst 📊</h3>
   <img height="100" src="./assets/DAA_DC.png" alt="Data Analyst Icon">
+  <p>DAA0015045663039</p>
 </div>
 <br>
 <br>
@@ -77,6 +79,7 @@
 <div align="center">
   <h3>Data Engineer 🔧</h3>
   <img height="100" src="./assets/DEA_DC.png" alt="Data Engineer Icon">
+  <p>DEA0015920007286</p>
 </div>
 <br>
 <br>
