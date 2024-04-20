@@ -91,7 +91,7 @@
 
 <div align="center">
   <h3>SQL Associate 📈</h3>
-  <img height="100" src="./assets/sql_associate_badge.png" alt="SQL Associate Icon">
+  <img height="100" src="./assets/SQA_DC.png" alt="SQL Associate Icon">
   <p>SQA0012209613035</p>
 </div>
 
