@@ -89,6 +89,12 @@
   <img width="60px" height="60px" src="./assets/apacheairflow.png" alt="apacheairflow logo"/>
 </div>
 
+<div align="center">
+  <h3>SQL Associate 📈</h3>
+  <img height="100" src="./assets/sql_associate_badge.png" alt="SQL Associate Icon">
+  <p>SQA0012209613035</p>
+</div>
+
 # Stats 📈
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aint-vscp&theme=react&border=61dafb&hide_border=true" alt="Stats">
