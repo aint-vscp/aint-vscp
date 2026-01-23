@@ -22,7 +22,7 @@
   </p>
 </div>
 
-<iframe src="https://github.com/sponsors/aint-vscp/button" title="Sponsor aint-vscp" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+[![Sponsor aint-vscp](https://img.shields.io/badge/Sponsor-aint--vscp-EA4AAA?style=flat&logo=github)](https://github.com/sponsors/aint-vscp)
 
 ---
 
