@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/aint-vscp/aint-vscp/main/assets/hero.svg" alt="Vash Carretas Puno - AI & Automation Engineer" width="100%" />
+  <img src="https://raw.githubusercontent.com/aint-vscp/aint-vscp/main/assets/hero.svg" alt="Vash C. Puno - AI & Automation Engineer" width="100%" />
 </div>
 
 <div align="center">
