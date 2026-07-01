@@ -52,7 +52,7 @@ software for Philippine SMEs and founders &mdash; saving businesses **10&ndash;2
 ## &#9670; Contribution arcade
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/aint-vscp/aint-vscp/output/github-snake-dark.svg" alt="A snake eating my GitHub contributions" width="100%" />
+  <img src="https://raw.githubusercontent.com/aint-vscp/aint-vscp/main/assets/snake.svg" alt="A snake eating my GitHub contributions" width="100%" />
 </div>
 
 ## &#9670; Highlights
