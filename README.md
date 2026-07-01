@@ -44,6 +44,11 @@ software for Philippine SMEs and founders &mdash; saving businesses **10&ndash;2
 | [**BizAI**](https://github.com/mgachiee/BizAI) | Azure OpenAI RAG assistant for MSME financial guidance |
 | [**Kabalikat Agent**](https://github.com/aint-vscp/kabalikat-agent) | Autonomous "background sentry" hybrid AI agent |
 
+<div align="center">
+  <br/>
+  <img src="https://vscp.dev/api/gh-stats" alt="GitHub snapshot (live)" width="100%" />
+</div>
+
 ## &#9670; Contribution arcade
 
 <div align="center">
