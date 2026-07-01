@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="GitHub snapshot for aint-vscp">
+  <defs>
+    <linearGradient id="sbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#0f141d"/>
+    </linearGradient>
+    <linearGradient id="sacc" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#818cf8"/>
+      <stop offset="1" stop-color="#c4b5fd"/>
+    </linearGradient>
+    <clipPath id="barclip"><rect x="48" y="206" width="1104" height="16" rx="8"/></clipPath>
+    <style>
+      .t { font-family: 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+      .m { font-family: 'SFMono-Regular', 'Consolas', 'Liberation Mono', Menlo, monospace; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="300" rx="16" fill="url(#sbg)"/>
+  <rect x="1" y="1" width="1198" height="298" rx="15" fill="none" stroke="#232a36"/>
+  <rect x="48" y="34" width="4" height="20" rx="2" fill="url(#sacc)"/>
+  <text class="t" x="64" y="51" font-size="19" font-weight="700" fill="#e6edf3">GitHub Snapshot</text>
+  <text class="m" x="1152" y="51" text-anchor="end" font-size="14" fill="#8b949e">@aint-vscp</text>
+
+  <!-- metric tiles -->
+  <g class="t">
+    <g transform="translate(48,80)">
+      <rect width="258" height="86" rx="12" fill="#111722" stroke="#262c39"/>
+      <text x="20" y="52" font-size="40" font-weight="700" fill="#e6edf3">19</text>
+      <text x="21" y="72" font-size="13" fill="#8b949e">Public repositories</text>
+    </g>
+    <g transform="translate(330,80)">
+      <rect width="258" height="86" rx="12" fill="#111722" stroke="#262c39"/>
+      <text x="20" y="52" font-size="40" font-weight="700" fill="#e6edf3">28</text>
+      <text x="21" y="72" font-size="13" fill="#8b949e">Followers</text>
+    </g>
+    <g transform="translate(612,80)">
+      <rect width="258" height="86" rx="12" fill="#111722" stroke="#262c39"/>
+      <text x="20" y="52" font-size="40" font-weight="700" fill="#e6edf3">6</text>
+      <text x="21" y="72" font-size="13" fill="#8b949e">Languages shipped</text>
+    </g>
+    <g transform="translate(894,80)">
+      <rect width="258" height="86" rx="12" fill="#111722" stroke="#262c39"/>
+      <text x="20" y="52" font-size="40" font-weight="700" fill="#e6edf3">2023</text>
+      <text x="21" y="72" font-size="13" fill="#8b949e">Building since</text>
+    </g>
+  </g>
+
+  <!-- language distribution -->
+  <text class="t" x="48" y="194" font-size="14" font-weight="600" fill="#adbac7">Most-used languages</text>
+  <g clip-path="url(#barclip)">
+    <rect x="48"  y="206" width="425" height="16" fill="#7c9aff"/>
+    <rect x="473" y="206" width="255" height="16" fill="#ffd76a"/>
+    <rect x="728" y="206" width="170" height="16" fill="#ff8a7a"/>
+    <rect x="898" y="206" width="85"  height="16" fill="#b7f07f"/>
+    <rect x="983" y="206" width="169" height="16" fill="#8b949e"/>
+    <rect x="48" y="206" width="1104" height="16" fill="#ffffff" opacity="0.06">
+      <animate attributeName="x" values="-200;1200" dur="3.5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- legend -->
+  <g class="t" font-size="13" fill="#c9d1d9">
+    <g transform="translate(48,250)"><circle cx="7" cy="8" r="6" fill="#7c9aff"/><text x="22" y="13">TypeScript 38%</text></g>
+    <g transform="translate(230,250)"><circle cx="7" cy="8" r="6" fill="#ffd76a"/><text x="22" y="13">Python 23%</text></g>
+    <g transform="translate(380,250)"><circle cx="7" cy="8" r="6" fill="#ff8a7a"/><text x="22" y="13">HTML 15%</text></g>
+    <g transform="translate(510,250)"><circle cx="7" cy="8" r="6" fill="#b7f07f"/><text x="22" y="13">JavaScript 8%</text></g>
+    <g transform="translate(660,250)"><circle cx="7" cy="8" r="6" fill="#8b949e"/><text x="22" y="13">Kotlin &amp; others 15%</text></g>
+  </g>
+</svg>
